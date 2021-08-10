@@ -2,4 +2,4 @@
 
 
 ## For the live version,open the link below:
-https://nbviewer.jupyter.org/github/teetangh/gradient-descent-experiments/blob/main/Gradient_Descent_Fun.ipynb
+https://nbviewer.jupyter.org/github/Kaggle-Workspace/Gradient-Descent-Experiments/blob/main/Gradient-Descent-Experiments.ipynb
